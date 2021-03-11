@@ -1,5 +1,7 @@
 # Teclado-MIDI
-![Vista_en_Tinkercad](Miniatura_de_Youtube.png?raw=true "Ensamblaje")
+
+![hey](Miniatura_de_Youtube.png?raw=true "thumbnail")
+
 El código que compartimos aquí es para poder darle una segunda vida algún teclado viejo que tengas arrumbado por ahí.
 Con una serie de modificaciones apropiadas, puedes adecuar el código para que funcione específicamente con tu teclado.
 
