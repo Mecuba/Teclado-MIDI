@@ -8,3 +8,5 @@ Con una serie de modificaciones apropiadas, puedes adecuar el código para que f
 El autor original del proyecto es **Evan Kale**. En el código que nosotros compartimos, detallamos algunos aspectos que fueron modificados respecto al original.
 
 Para más información sobre los proyectos de Evan Kale puedes visitar http://evankale.blogspot.com/
+
+Si deseas información más detallada por nuestra aprte puedes contactarnos con: contacto.mecuba@gmail.com
