@@ -9,4 +9,4 @@ El autor original del proyecto es **Evan Kale**. En el código que nosotros comp
 
 Para más información sobre los proyectos de Evan Kale puedes visitar http://evankale.blogspot.com/
 
-Si deseas información más detallada por nuestra aprte puedes contactarnos con: contacto.mecuba@gmail.com
+Si deseas información más detallada por nuestra parte puedes contactarnos con: contacto.mecuba@gmail.com
