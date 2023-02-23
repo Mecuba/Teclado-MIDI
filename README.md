@@ -1,6 +1,7 @@
 # Teclado-MIDI
 
-![hey](Miniatura_de_YouTube.png?raw=true "thumbnail")
+[![Teclado MIDI](Miniatura_de_YouTube.png?raw=true "thumbnail")](https://youtu.be/WRJIVvAlRF4)
+
 
 El código que compartimos aquí es para poder darle una segunda vida a algún teclado viejo que tengas arrumbado por ahí.
 Con una serie de modificaciones apropiadas, puedes adecuar el código para que funcione específicamente con tu teclado.
